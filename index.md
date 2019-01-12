@@ -1,91 +1,93 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adrian J. Cruz
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adrian J. Cruz
+Software Engineer, Sometimes Speaker, Always a Learner.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:drincruz@gmail.com">drincruz@gmail.com</a>
+| <a href="http://drincruz.com">drincruz.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Programming in [Elixir](https://github.com/elixir-lang/elixir), focusing on backend services.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Search, discovery, growth.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Information retrieval, natural language, word stemming, functional programming.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2015 - Present`
+__Software Engineer__, Teachers Pay Teachers, _New York, NY_
 
-- Warden
-- Minted coins
+ - Work on all parts of Search systems from infrastructure, data, indexing, API,
+frontend.
+ - Author technical specifications and write code to implement end-to-end.
+   * Write API code in Elixir with Absinthe for GraphQL.
+   * Model, extract data to power Search indexing with Sphinx Search and MySQL.
+   * Instrument code, build dashboards to ensure integrity of services with
+   StatsD, DataDog.
+   * Maintain Search infrastructure consisting of Amazon EC2 instances, RDS (MySQL),
+   Kubernetes.
+   * Maintain data ETL with Python, Apache Airflow, MySQL, BigQuery.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2014 - June 2015`
+__Software Engineer__, HowStuffWorks, _New York, NY_
+
+ - Built ETL data pipeline with Python, Luigi, Amazon S3, Hadoop, Hive.
+
+`2008 - July 2014`
+__Developer__, About.com, _New York, NY_
+
+ - Built internal tooling and web applications with Python, MySQL, Django, C++, Apache Thrift
+ - Built service to interface between social networks with Java.
+
+`2004 - June 2008`
+__Integration Engineer__, SchoolNet, Inc., _New York, NY_
+
+ - Worked on systems Drupal CMS with FreeBSD, PHP & MySQL
+ - Built automation of data processing jobs.
+
+## Notable Accomplishments
+
+`Current`
+Open-source Contributor, *Elixir-lang*, and Elixir ecosystem.
+
+[https://github.com/drincruz](https://github.com/drincruz)
+
+`2018`
+[Speaker](https://www.youtube.com/watch?v=vogAxP4Sq_g), *CodeBEAMSF*, San Francisco, CA
+
+`2017`
+Speaker, *Search Camp*, New York, NY
+
+`2016`
+[Speaker](https://www.youtube.com/watch?v=TuUwnBrh85I), *PyGotham*, New York, NY
+
+Speaker, *Search Camp*, New York, NY
+
+`2015`
+[Speaker](https://www.youtube.com/watch?v=ymF2R_tY1f8), *PyGotham*, New York, NY
 
 
+## Education
+
+`2000 - 2004`
+__Rutgers, The State University of New Jersey, Newark.__
+
+- B.A. Computer Science
+- Minor: Mathematics
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
